@@ -1,10 +1,10 @@
-# bioinformatics_courses
+# Bioinformatics courses and projects
 
 - solutions for rosalind problems
 
-link : http://rosalind.info/problems/list-view/
+link   : http://rosalind.info/problems/list-view/
 
-folder : https://github.com/rbr7/bioinformatics_courses/tree/master/Rosalind_solutions
+folder : [Rosalind solutions](https://github.com/rbr7/bioinformatics_courses/tree/master/Rosalind_solutions)
 
 
 
@@ -13,7 +13,7 @@ folder : https://github.com/rbr7/bioinformatics_courses/tree/master/Rosalind_sol
 
 course : https://www.coursera.org/specializations/genomic-data-science
 
-folder : https://github.com/rbr7/bioinformatics_courses/tree/master/Capstone_Project-Genomic_Data_Science-JHU
+folder : [Capstone Project-Genomic Data Science-JHU](https://github.com/rbr7/bioinformatics_courses/tree/master/Capstone_Project-Genomic_Data_Science-JHU)
 
 
 
@@ -21,7 +21,7 @@ folder : https://github.com/rbr7/bioinformatics_courses/tree/master/Capstone_Pro
 
 course : https://www.coursera.org/specializations/bioinformatics
 
-folder : https://github.com/rbr7/bioinformatics_courses/tree/master/Bioinformatics_specialization-UCSD
+folder : [Bioinformatics specialization-UCSD](https://github.com/rbr7/bioinformatics_courses/tree/master/Bioinformatics_specialization-UCSD)
 
 -> Finding hidden messages in DNA : [solutions](https://github.com/rbr7/bioinformatics_courses/tree/master/Bioinformatics_specialization-UCSD/finding_hidden_messages_in_DNA)
 
