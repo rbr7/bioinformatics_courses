@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# rohan bhukar : submission week 12. recursive binary search tree
+# rohan : submission week 12. recursive binary search tree
 import argparse
 
 parser = argparse.ArgumentParser()
